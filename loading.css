@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+  body{
+    background: black;
+    background-image: url('cyberboard_terminal_kv.mp4.jpeg');
+    color: #4AF626;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  .center {
+    margin: auto;
+    margin-top: 5px;
+    width: 50%;
+    height: 85%;
+    border: 3px solid green;
+    background: black;
+    padding: 5px;
+    opacity: 80%;
+  }
+  
+  h1{
+    text-align: center;
+    margin-top: 30;
+    background: black;
+    padding: 10px;
+  
+  }
+  .b{
+    margin-left: 70%;
+    color:green;
+  }

@@ -1,0 +1,33 @@
+.front{
+    background-image: url("front.png");
+    /*background-position:center;*/
+    background-size:cover;
+}
+.content{
+    margin-top: 30%;
+    margin-left:90%;
+}
+
+h1{
+    font-size:88px;
+    margin-bottom:15px;
+    color:white;
+}
+
+
+.content p{
+    line-height:22px;
+    font-size:30px;
+    color:white;
+    
+}
+.content  .btn{
+    display:inline-block;
+    margin-top:30px;
+    background:green;
+    color:white;
+    text-decoration: none;
+    padding:15px 30px;
+    border-radius: 30px;
+
+}
